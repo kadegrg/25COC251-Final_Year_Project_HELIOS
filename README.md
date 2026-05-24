@@ -56,6 +56,6 @@ This coursework helped develop skills in:
 ## Notes
 
 - The repository is split into two main applications: `helios-backend` and `helios-frontend`.
-- Backend code indicates a strong emphasis on security and operational safeguards (rate limiting, headers, structured error handling, and context middleware).
-- A plugin-oriented extension mechanism is present in the backend (`/api/v1/plugins`), suggesting support for feature extensibility.
+- Backend code has a strong emphasis on security and operational safeguards (rate limiting, headers, structured error handling, and context middleware).
+- A plugin-oriented extension mechanism is present in the backend (`/api/v1/plugins`), allowing support for feature extensibility.
 - As this is a coursework submission, the included file list is intentionally selective and highlights only key implementation areas.
